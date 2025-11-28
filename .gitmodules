@@ -1,3 +1,6 @@
 [submodule "RDOQ"]
 	path = RDOQ
 	url = https://github.com/microSharjeel/RDOQ.git
+[submodule "Intra_prediction"]
+	path = Intra_prediction
+	url = https://github.com/microSharjeel/Intra_prediction.git
