@@ -1,0 +1,3 @@
+[submodule "RDOQ"]
+	path = RDOQ
+	url = https://github.com/microSharjeel/RDOQ.git
