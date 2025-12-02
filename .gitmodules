@@ -10,3 +10,6 @@
 [submodule "RD_Cost"]
 	path = RD_Cost
 	url = https://github.com/microSharjeel/RD_Cost.git
+[submodule "Transforms"]
+	path = Transforms
+	url = https://github.com/microSharjeel/Transforms.git
