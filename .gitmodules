@@ -7,3 +7,6 @@
 [submodule "CABAC"]
 	path = CABAC
 	url = https://github.com/microSharjeel/CABAC.git
+[submodule "RD_Cost"]
+	path = RD_Cost
+	url = https://github.com/microSharjeel/RD_Cost.git
