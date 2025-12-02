@@ -4,3 +4,6 @@
 [submodule "Intra_prediction"]
 	path = Intra_prediction
 	url = https://github.com/microSharjeel/Intra_prediction.git
+[submodule "CABAC"]
+	path = CABAC
+	url = https://github.com/microSharjeel/CABAC.git
